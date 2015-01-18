@@ -9,12 +9,13 @@ subtitle: 'Magento Extension documentation'
 navigation: 2
 
 # URL to source code, used in _includes/footer.html
-codeurl: 'https://github.com/bruth/jekyll-docs-template'
+codeurl: 'https://github.com/TheExtensionLab/Documentation'
 
 # Default categories (in order) to appear in the navigation
 sections: [
     ['status-colors', 'Status Colors'],
-    ['trustpilot-feed', 'Trustpilot Feed']
+    ['trustpilot-feed', 'Trustpilot Feed'],
+    ['kit-products','Kit Products']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
