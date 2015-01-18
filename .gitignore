@@ -1,4 +1,4 @@
 *.sw?
 _site
 _pages
-.idea/
+.idea
