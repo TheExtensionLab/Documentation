@@ -10,7 +10,7 @@ A few key Overview details:
 
 **Modman:** Yes
 
-**Composer:** (Not Yet)
+**Composer:** Yes
 
 **GitHub:** Private (Request invite after purchase)
 
