@@ -1,2 +1,2 @@
 # Documentation
-Documentation for all our Extensions
+Documentation for all our Extensions - http://docs.theextensionlab.com/
