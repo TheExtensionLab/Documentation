@@ -20,6 +20,6 @@ To make it easy to see when the installation was successful we added a default S
 
 ***How do I highlight the whole row rather than just the status within that row?***
 
-If you would like to highlight the whole row on the order grid rather than just the status there is a setting. Navigate to the Status Color settings section under System configuration, change ```Grid Style > Color Whole Row``` to and hit save config. The next time you visit the sale order grid page the whole row should now be colored in.
+If you would like to highlight the whole row on the order grid rather than just the status there is a setting for that. Navigate to the new Order Grid settings section under ```System > Configuration > Advanced > Admin > Order Grid```, change ```Color Whole Row``` to yes and hit save config. The next time you visit the sale order grid page the whole row should now be colored in.
 
 ![Row Style option](../assets/images/status-display-style.png "Row Style option")
