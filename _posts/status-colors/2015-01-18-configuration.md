@@ -16,7 +16,7 @@ Once on ```Magento Admin > System > Order Statuses``` simply select the row of t
 
 ***Changing the default Status Color***
 
-To make it easy to see when the installation was successful we added a default Status Colour, if you want to change or remove that you can do so from ```Magento Admin > System Configuration > Status Colors```. You should then see a Default Styles section simply update the Default Status Color in this section as needed, to have no default clear the field and save.
+To make it easy to see when the installation was successful we added a default Status Colour, if you want to change or remove that you can do so from ```Magento Admin > System > System Configuration > Advanced > Admin > Order Grid```. You should then see a Default Status Color field simply update that as needed.
 
 ***How do I highlight the whole row rather than just the status within that row?***
 
