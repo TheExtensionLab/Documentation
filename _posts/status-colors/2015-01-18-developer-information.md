@@ -12,7 +12,7 @@ A few key Overview details:
 
 **Composer:** Yes
 
-**GitHub:** Private (Request invite after purchase)
+**GitHub:** https://github.com/TheExtensionLab/StatusColors
 
 **Core Hacks:** 0
 
