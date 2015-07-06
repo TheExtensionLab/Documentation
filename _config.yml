@@ -6,16 +6,21 @@ subtitle: 'Magento Extension documentation'
 #   0 - always hide
 #   1 - always show
 #   2 - show only if posts are present
-navigation: 2
+navigation: 1
 
 # URL to source code, used in _includes/footer.html
 codeurl: 'https://github.com/TheExtensionLab/Documentation'
 
 # Default categories (in order) to appear in the navigation
 sections: [
+    ['mega-menu','Mega Menu'],
+    ['kit-products','Kit Products'],
+    ['widgetized-dashboard','Widgetized-Dashboard'],
     ['status-colors', 'Status Colors'],
-    ['trustpilot-feed', 'Trustpilot Feed'],
-    ['kit-products','Kit Products']
+    ['multiselect-filters','Multiselect Admin Filters'],
+    ['custom-contact-url','Custom Contact Url'],
+    ['review-notifier','Review Notifier'],
+    ['trustpilot-feed', 'Trustpilot Feed']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific

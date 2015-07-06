@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Installation
-date: 2015-01-18 16:12:00
-category: status-colors
-order: 0
+date: 2015-05-28 13:56:00
+category: review-notifier
+order: 1
 ---
 
 Once purchased you will be provided with a download link to download the extension in a .zip format.
