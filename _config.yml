@@ -19,8 +19,7 @@ sections: [
     ['status-colors', 'Status Colors'],
     ['multiselect-filters','Multiselect Admin Filters'],
     ['custom-contact-url','Custom Contact Url'],
-    ['review-notifier','Review Notifier'],
-    ['trustpilot-feed', 'Trustpilot Feed']
+    ['review-notifier','Review Notifier']
 ]
 
 # Keep as an empty string if served up at the root. If served up at a specific
