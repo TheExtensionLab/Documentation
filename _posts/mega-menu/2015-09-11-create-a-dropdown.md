@@ -6,6 +6,8 @@ category: mega-menu
 order: 14
 ---
 
+<iframe name='quickcast' src='http://quick.as/embed/21xziga05' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.60'></script>
+
 Each category should now have two new tabs under Magento Admin > Catalog > Manage Categories as below.
 
 ![New Tabs](../assets/images/mega-menu/new-tabs.jpg "New Tabs")
