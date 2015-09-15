@@ -6,8 +6,6 @@ category: mega-menu
 order: 14
 ---
 
-<iframe name='quickcast' src='http://quick.as/embed/21xziga05' scrolling='no' frameborder='0' width='100%' allowfullscreen></iframe><script src='http://quick.as/embed/script/1.60'></script>
-
 Each category should now have two new tabs under Magento Admin > Catalog > Manage Categories as below.
 
 ![New Tabs](../assets/images/mega-menu/new-tabs.jpg "New Tabs")
@@ -60,8 +58,6 @@ Section X Content is a WYSIWYG editor and anything you can out in a CMS Page you
 For example if you have 3 sets of featured products in your Menu with Ids 22,33,44 - 32,46,13 and 45,53,34.
 Usually this would require 3 collections (or worse 9 ->load calls), however our widgets would load all products in one collection saving resources.
 Within our widgets all calls to categories will also use the already loaded menu tree saving the need to call the database once again.
-
-[If you are un-familiar with Widgets please see this short gif animation](/mega-menu/using-a-widget-demo.html)
 
 For now you can just enter text into the content boxes to see how they work, once that is OK you may want to checkout one of the following examples:
 

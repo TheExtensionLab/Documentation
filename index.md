@@ -14,5 +14,3 @@ title: "Extension documentation - TheExtensionLab"
 ***Review Notifier*** : Adds admin e-mail notification alerts when a customer leaves a product review.
 
 ***Multiselect Admin Filters*** : Adds multi-select filters to backend grid in Magento and makes them more user friendly with chosen.js.
-
-***Trustpilot Trustbox*** : Intergrates a PHP version of the Trustpilot trustbox feed.
