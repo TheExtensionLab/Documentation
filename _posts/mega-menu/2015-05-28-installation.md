@@ -14,7 +14,7 @@ Once purchased you will be provided with 2 download methods in your ```My Accoun
 2. Check Compilation status and disable Compilation if it is enabled (Magento Admin > System > Tools > Compilation)
 3. Copy the files from the package into your Magento directory
 4. Clear your Magento Cache. (```Magento Admin > System > Cache Management > Select "Flush Cache Storage"```)
-5. Your extension should now be installed. And just requires configuration details on which can be [found here](/kit-products/configuration.html)
+5. Your extension should now be installed. And just requires configuration details on which can be [found here](/mega-menu/configuration.html)
 
 ***Installation via Composer/Modman***
 
