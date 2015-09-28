@@ -8,7 +8,7 @@ order: 12
 
 ***Enbale the extension***
 
-This extension adds new configuration options at ```Magento Admin > System > Configuration > Catalog > Catalog Navigation```
+This extension adds new configuration options at ```Magento Admin > System > Configuration > Catalog > Category Top Navigation```
 for the extension to function you will need to enter the serial key from your account into the 'serial' field.
 
 On the [ExtensionLab website](http://www.theextensionlab.com/downloadable/extension_keys/list/) locate the serial key under ```My Account > Serial Keys```
