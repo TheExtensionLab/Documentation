@@ -6,11 +6,6 @@ category: review-notifier
 order: 1
 ---
 
-Once purchased you will be provided with a download link to download the extension in a .zip format.
+This is a really simple module, once installed you simply need to enable the alert an configure the e-mail settings. You can do this at Magento Admin > System > Configuration > Catalog > Products Reviews.
 
-1. Unzip the files
-2. Check Compilation status and disable Compilation if it is enabled (Magento Admin > System > Tools > Compilation)
-3. Copy the files from the package into your Magento directory
-4. Clear your Magento Cache. (```Magento Admin > System > Cache Management > Select "Flush Cache Storage"```)
-5. Your extension should now be installed check the you can see the config tab as below and re-run the compilation process if you had it enabled originally.
-
+Change "Enable New Review E-mail Alert" to Yes, enter the e-mail you would like to receive the alert at "Alert Email Recipient" and press "Save Config". Once this is done the next time somebody leaves a review you should then recive an e-mail.
