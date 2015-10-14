@@ -10,7 +10,7 @@ This extension comes with a few general configuration options that can be locate
 
 ***Serial Key***: Hopefully self explanatory. Your serial key can be found in My Accounts > Serial Keys once this extension has been purchased on http://www.theextensionlab.com
 
-***Include Responsive Styles***: Responsive css styles (css for mobiles and tablets in this case) are included by default, if your site is not responsive you may wish to turn this off.
+***Include Responsive Styles***: Responsive css styles (css for mobiles and tablets in this case) are included by default, if your site is not responsive you may wish to set this to "No".
 
 ***Maximal Depth***: This sets how deeps down the category tree Magento should load. And in the case of this extension is used for prefetching of categories to be shown later in the dropdowns. 0 will load all categories, 1 just the first level 2 the level under than and so on.
 
