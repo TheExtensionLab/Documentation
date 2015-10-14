@@ -14,4 +14,4 @@ This extension comes with a few general configuration options that can be locate
 
 ***Maximal Depth***: This sets how deeps down the category tree Magento should load. And in the case of this extension is used for prefetching of categories to be shown later in the dropdowns. 0 will load all categories, 1 just the first level 2 the level under than and so on.
 
-We recommend setting this to the lowest possible (not including 0) bearing in mind that any categories you show via the MegaMenu widgets within the dropdowns will need to be equal or less than the level you set. This helps Magento stay fast as it will not load unused category levels.
+We recommend setting this to the lowest possible value (not including 0) bearing in mind that any categories shown via the MegaMenu widgets within the dropdowns will need to be equal or less than the level you set. This helps Magento load times as it will not load unused category levels.
