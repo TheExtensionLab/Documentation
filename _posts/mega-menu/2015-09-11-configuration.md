@@ -14,6 +14,8 @@ for the extension to function you will need to enter the serial key from your ac
 On the [ExtensionLab website](http://www.theextensionlab.com/downloadable/extension_keys/list/) locate the serial key under ```My Account > Serial Keys```
 and copy and paste it into the Serial Key section and hit "Save Config". If the serial key is valid the error message below should disappear.
 
+For more information on the other fields in this section please see [here](/mega-menu/configuration-options.html)
+
 ***Creating your first MegaMenu dropdown***
 
 [Click here to see information on creating megamenu dropdowns](/mega-menu/create-a-dropdown.html)
