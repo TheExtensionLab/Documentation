@@ -20,7 +20,7 @@ Once purchased you will be provided with 2 download methods in your ```My Accoun
 
 Via Composer (Reccomended over Modman if possible)
 
-Add ```"theextensionlab/megamenu": "~0.1.0"``` to your required section and add the github repo as a source
+Add ```"theextensionlab/megamenu": "~1.0.0"``` to your required section and add the github repo as a source
 repository by adding it to the composer.json repositories array. Since composer wont resolve repositories recursively we also need to add the source of two small dependencies.
 
 ```
